@@ -13,7 +13,7 @@ Calculadora con interfaz gráfica implementando el patrón Modelo-Vista-Controla
 
 
 ## 🛠️ Tecnologías utilizadas
-- **Lenguaje**: Java 17![Uploading Captura de pantalla 2025-08-09 170645.png…]()
+- **Lenguaje**: Java 17!
 
 - **Interfaz gráfica**: Swing (JFrame, JPanel, JButton)
 - **Patrón arquitectónico**: MVC (Modelo-Vista-Controlador)
